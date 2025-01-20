@@ -16,7 +16,7 @@ Functionality of this repository might include:
 - Confirm or cancel appointments with point and click functionality.
 - View multi-level analytics to help understand trends.
 - Ability to send confirmation requests via email.
-- Ability to export/import/print data and schedules
+- Ability to export/import/print data and schedules.
 
 Future functionality to be considered could be:
 - Ability to send confirmation requests via SMS.
